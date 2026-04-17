@@ -61,7 +61,7 @@ Example values:
 - `OPENAI_API_KEY` — API key for OpenAI if required by your LangChain setup.
 - `MCP_URL` — MCP endpoint URL if your client requires a URL from env.
 - `MCP_API_KEY` — API key or token for your MCP environment.
-- 'LANGSMITH_API_KEY' — API key or token for your LangSmith setup.
+- `LANGSMITH_API_KEY` — API key or token for your LangSmith setup.
 
 ## Notes
 
