@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-mcp-adapters
+mcp
+langgraph
+tavily
+langchain-community
+langsmith
